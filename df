@@ -1,0 +1,62 @@
+[33mcommit 942e1dfdbd06ad97b7aa6d7853d48c1c052f5bc5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/second_branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32msecond_branch[m[33m)[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 15:27:20 2024 +0200
+
+    add SecondFile
+
+[33mcommit ba305d005f9237aa803b153dc8f367ee3b8f57fe[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 15:18:19 2024 +0200
+
+    second file
+
+[33mcommit f8f09765e24d1fe79a77368cf45d0100bda81c47[m[33m ([m[1;31morigin/first_branch[m[33m, [m[1;32mfirst_branch[m[33m)[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 14:48:48 2024 +0200
+
+    new branch commit
+
+[33mcommit 774871df6cf806eca7cf7c48fa303e765ea488b7[m
+Merge: 929f1ea 5791690
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 12:20:43 2024 +0200
+
+    Merge branch 'main' of https://github.com/twittonatorrr/QA
+
+[33mcommit 5791690328ab990080a84ccaafb0e4b8646939e1[m
+Author: twittonatorrr <134941050+twittonatorrr@users.noreply.github.com>
+Date:   Mon Mar 25 12:19:49 2024 +0200
+
+    Create Conflict
+
+[33mcommit 929f1eadad0068e4e2ba770d781e746c399d22a3[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 12:17:40 2024 +0200
+
+    message
+
+[33mcommit 3e19e9c86a48c9c0b792baa7c1a9ab0ce6f730fa[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 12:16:14 2024 +0200
+
+    message
+
+[33mcommit fe07a73ad4a2b0dceee3d79bd710cb76493f48ac[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Mon Mar 25 09:46:27 2024 +0200
+
+    new commit
+
+[33mcommit 770d32437b734720b60f4849aa43b88601372e30[m
+Author: twittonatorrr <134941050+twittonatorrr@users.noreply.github.com>
+Date:   Mon Mar 25 09:00:43 2024 +0200
+
+    Update File1.txt
+    
+    Adding new line.
+
+[33mcommit 9e63176edc5119993ac732e5304e1bb7b5104f4a[m
+Author: unknown <yarkosmalyukh@gmail.com>
+Date:   Sun Mar 24 23:02:35 2024 +0200
+
+    test commit1
